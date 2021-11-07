@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\PB1">
+      <UniqueIdentifier>{b10dc91b-d385-431f-b1ec-a2776de42d54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PB2">
+      <UniqueIdentifier>{1fe07c93-1149-4aaf-9d93-54c27bf16b0b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ArboriProbleme.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Arbori\Arbori\Arbori\BST.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Arbori\Arbori\Arbori\Ierarhie.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Arbori\Arbori\Arbori\TreeNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CerintaA.h">
+      <Filter>Header Files\PB1</Filter>
+    </ClInclude>
+    <ClInclude Include="CerintaB.h">
+      <Filter>Header Files\PB1</Filter>
+    </ClInclude>
+    <ClInclude Include="CerintaC.h">
+      <Filter>Header Files\PB1</Filter>
+    </ClInclude>
+    <ClInclude Include="CerintaD.h">
+      <Filter>Header Files\PB1</Filter>
+    </ClInclude>
+    <ClInclude Include="CerintaE.h">
+      <Filter>Header Files\PB1</Filter>
+    </ClInclude>
+    <ClInclude Include="CerintaF.h">
+      <Filter>Header Files\PB1</Filter>
+    </ClInclude>
+    <ClInclude Include="CerintaG.h">
+      <Filter>Header Files\PB1</Filter>
+    </ClInclude>
+    <ClInclude Include="CerintaH.h">
+      <Filter>Header Files\PB1</Filter>
+    </ClInclude>
+    <ClInclude Include="CerintaI.h">
+      <Filter>Header Files\PB1</Filter>
+    </ClInclude>
+    <ClInclude Include="CerintaJ.h">
+      <Filter>Header Files\PB1</Filter>
+    </ClInclude>
+    <ClInclude Include="Cerinta2A.h">
+      <Filter>Header Files\PB2</Filter>
+    </ClInclude>
+    <ClInclude Include="Cerinta2B.h">
+      <Filter>Header Files\PB2</Filter>
+    </ClInclude>
+    <ClInclude Include="Cerinta2C.h">
+      <Filter>Header Files\PB2</Filter>
+    </ClInclude>
+    <ClInclude Include="Cerinta2D.h">
+      <Filter>Header Files\PB2</Filter>
+    </ClInclude>
+    <ClInclude Include="Cerinta2E.h">
+      <Filter>Header Files\PB2</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,20 @@
+﻿  ArboriProbleme.cpp
+D:\c++\Programare_procedurala\Structuri_de_date\ArboriProbleme\ArboriProbleme\ArboriProbleme.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\c++\Programare_procedurala\Structuri_de_date\ArboriProbleme\ArboriProbleme\CerintaA.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\c++\Programare_procedurala\Structuri_de_date\ArboriProbleme\ArboriProbleme\CerintaA.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\c++\Programare_procedurala\Structuri_de_date\Arbori\Arbori\Arbori\TreeNode.h(3,13): error C2011: 'Node': 'struct' type redefinition
+D:\c++\Programare_procedurala\Structuri_de_date\Arbori\Arbori\Arbori\TreeNode.h(3): message : see declaration of 'Node'
+D:\c++\Programare_procedurala\Structuri_de_date\ArboriProbleme\ArboriProbleme\CerintaA.h(14,1): error C2027: use of undefined type 'Node'
+D:\c++\Programare_procedurala\Structuri_de_date\Arbori\Arbori\Arbori\TreeNode.h(3): message : see declaration of 'Node'
+D:\c++\Programare_procedurala\Structuri_de_date\ArboriProbleme\ArboriProbleme\CerintaA.h(15,1): error C2027: use of undefined type 'Node'
+D:\c++\Programare_procedurala\Structuri_de_date\Arbori\Arbori\Arbori\TreeNode.h(3): message : see declaration of 'Node'
+D:\c++\Programare_procedurala\Structuri_de_date\ArboriProbleme\ArboriProbleme\CerintaA.h(17,1): error C2027: use of undefined type 'Node'
+D:\c++\Programare_procedurala\Structuri_de_date\Arbori\Arbori\Arbori\TreeNode.h(3): message : see declaration of 'Node'
+D:\c++\Programare_procedurala\Structuri_de_date\ArboriProbleme\ArboriProbleme\CerintaA.h(18,1): error C2027: use of undefined type 'Node'
+D:\c++\Programare_procedurala\Structuri_de_date\Arbori\Arbori\Arbori\TreeNode.h(3): message : see declaration of 'Node'
+D:\c++\Programare_procedurala\Structuri_de_date\ArboriProbleme\ArboriProbleme\ArboriProbleme.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\c++\Programare_procedurala\Structuri_de_date\Arbori\Arbori\Arbori\Ierarhie.h(7,17): error C2011: 'Ierarhie': 'struct' type redefinition
+D:\c++\Programare_procedurala\Structuri_de_date\Arbori\Arbori\Arbori\Ierarhie.h(7): message : see declaration of 'Ierarhie'
+D:\c++\Programare_procedurala\Structuri_de_date\ArboriProbleme\ArboriProbleme\ArboriProbleme.cpp(9,19): error C2079: 'ierarhie' uses undefined struct 'Ierarhie'
+D:\c++\Programare_procedurala\Structuri_de_date\ArboriProbleme\ArboriProbleme\ArboriProbleme.cpp(10,28): error C2027: use of undefined type 'Node'
+D:\c++\Programare_procedurala\Structuri_de_date\Arbori\Arbori\Arbori\TreeNode.h(3): message : see declaration of 'Node'
